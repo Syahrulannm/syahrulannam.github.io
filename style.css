@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #055160;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #055160;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#projects {
+  background-color: #055160;
+}
+
+#projects .row {
+  background-color: #fffffc;
+}
+
+footer {
+  background-color: #055160;
+}
